@@ -328,7 +328,7 @@ export const ygoData = {
           {
             icon: "💳",
             title: "Carte Visa Virtuelle",
-            description: "Nous travaillons activement sur l'émission de cartes Visa virtuelles pour permettre à nos clients de payer partout dans le monde en ligne.",
+            description: "Nous sommes actuellement en recherche d'un partenaire fiable, courageux et sérieux pour concrétiser l'émission de cartes Visa virtuelles et permettre à nos clients de payer partout dans le monde en ligne.",
             comingSoon: true
           },
           {
